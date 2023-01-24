@@ -1,1 +1,1 @@
-import testing_submodule.main as test
+import main
